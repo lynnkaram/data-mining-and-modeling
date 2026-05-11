@@ -1,6 +1,6 @@
-# Data Mining and Modeling
+# Biomedical Data Science, Mining and Modeling
 
-Course projects exploring biomedical data mining, machine learning, network analysis, and computational modeling techniques.
+Course projects exploring biomedical data mining, machine learning, network analysis, and computational modeling techniques. This is part of the CB&B 7520 course at Yale University. 
 
 ## Homework 1: Protein Interaction Networks
 
